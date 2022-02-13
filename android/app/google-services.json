@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591319212168",
+    "project_id": "pdmotivator-75e7c",
+    "storage_bucket": "pdmotivator-75e7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591319212168:android:1fbe9299ce88f290c47f3d",
+        "android_client_info": {
+          "package_name": "com.pdmotivator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591319212168-anmhh0qqc4ccc6p0i4dlepr895hadele.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoFlCCQlw-A8tcU4u21Q9ZTq_wzM5LRD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591319212168-anmhh0qqc4ccc6p0i4dlepr895hadele.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
